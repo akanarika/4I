@@ -1,0 +1,18 @@
+﻿生成启动时间为 2014/5/19 12:58:21。
+     1>项目“D:\Document\Visual Studio 2012\ShaderDemo\ShaderDemo\ShaderDemo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program\VS2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt OBJ\glm.cpp main.cpp
+         glm.cpp
+         main.cpp
+       Link:
+         D:\Program\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Document\Visual Studio 2012\ShaderDemo\Release\ShaderDemo.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Document\Visual Studio 2012\ShaderDemo\Release\ShaderDemo.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Document\Visual Studio 2012\ShaderDemo\Release\ShaderDemo.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\glm.obj
+         Release\load.obj
+         正在生成代码
+         已完成代码的生成
+         ShaderDemo.vcxproj -> D:\Document\Visual Studio 2012\ShaderDemo\Release\ShaderDemo.exe
+     1>已完成生成项目“D:\Document\Visual Studio 2012\ShaderDemo\ShaderDemo\ShaderDemo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.40

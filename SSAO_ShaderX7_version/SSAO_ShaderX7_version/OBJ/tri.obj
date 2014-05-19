@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 11.05.2014 18:58:32
+
+mtllib sphere.mtl
+
+#
+# object Sphere001
+#
+
+v -1 -1 0
+v 1 -1 0
+v 1 1 -2
+v -1 1 -2
+
+usemtl wire_086086086
+f -4 -3 -2

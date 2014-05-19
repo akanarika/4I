@@ -1,0 +1,80 @@
+newmtl texture0
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture0.ppm
+newmtl texture1
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture1.ppm
+newmtl texture2
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture2.ppm
+newmtl texture3
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture3.ppm
+newmtl texture4
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture4.ppm
+newmtl texture5
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture5.ppm
+newmtl texture6
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture6.ppm
+newmtl texture7
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture7.ppm
+newmtl texture8
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture8.ppm
+newmtl texture9
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1
+Ns  0
+illum 2
+map_Kd texture9.ppm
